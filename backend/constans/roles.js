@@ -1,0 +1,11 @@
+// Константы для ролей
+const ADMIN = 0;
+const MODERATOR = 1;
+const USER = 2;
+
+// экспортируем все роли
+module.exports = {
+  ADMIN,
+  MODERATOR,
+  USER,
+};
